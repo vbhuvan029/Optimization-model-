@@ -30,3 +30,7 @@ Overall, this project demonstrates how optimization techniques and Python progra
 
 Output of the task:
 
+
+<img width="1191" height="786" alt="Image" src="https://github.com/user-attachments/assets/081bd6ef-0d5f-4720-ab24-2ab4d7c71071" />
+<img width="855" height="807" alt="Image" src="https://github.com/user-attachments/assets/222730d2-ce35-4538-b174-d4b346ccb9ab" />
+<img width="627" height="336" alt="Image" src="https://github.com/user-attachments/assets/1ad98ab0-1182-45cc-a0f1-cfbb97374d9f" />
